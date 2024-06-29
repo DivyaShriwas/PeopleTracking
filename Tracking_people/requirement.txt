@@ -1,4 +1,0 @@
-git+https://github.com/levan92/deep_sort_realtime.git
-opencv-python-headless
-torch
-torchvision
